@@ -1,0 +1,10 @@
+streamlit
+pandas
+scipy
+sdv
+openpyxl
+matplotlib
+seaborn
+numpy
+faker
+tqdm
